@@ -111,7 +111,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "블로그 포스트에서 잘못된 부분 댓글 남겨주시면 감사합니다!"
   location         : "South korea"
-  email            : "sol4877@gmail.com"
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
