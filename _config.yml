@@ -16,17 +16,17 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "Site Title"
-title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+title                    : "흔적 남기기"
+title_separator          : "&#124;"
+subtitle                 : "V0.0.1" # site tagline that appears below site title in masthead
+name                     : "이승진"
+description              : "알게된걸 기록하는 블로그"
 url                      : "https://dietcock.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "dietcock/dietcock.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "알게된걸 기록하는 블로그" # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 comments:
@@ -109,9 +109,9 @@ analytics:
 author:
   name             : "Seungjin Lee - Andy.lee"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "블로그 포스트에서 잘못된 부분 댓글 남겨주시면 감사합니다!"
   location         : "South korea"
-  email            :
+  email            : "sol4877@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
